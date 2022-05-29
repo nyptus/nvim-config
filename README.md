@@ -8,5 +8,7 @@ At first:<br>
 Then: <br>
 `:checkhealth` and install missing packages (optional)
 
-Neovim settings will be stored at (create if necessary):<br>
-`~/.config/nvim/init.vim`
+Neovim settings will be stored at `~/.config/nvim/init.vim` file (create if necessary):<br>
+`mkdir .config/nvim`<br>  
+`cd .config/nvim`<br>  
+`touch init.vim`
