@@ -9,6 +9,6 @@ Then: <br>
 `:checkhealth` and install missing packages (optional)
 
 Neovim settings will be stored at `~/.config/nvim/init.vim` file (create if necessary):<br>
-`mkdir .config/nvim`<br>  
-`cd .config/nvim`<br>  
+`mkdir ~/.config/nvim`<br>  
+`cd ~/.config/nvim`<br>  
 `touch init.vim`
